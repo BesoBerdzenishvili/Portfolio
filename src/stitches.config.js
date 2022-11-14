@@ -12,7 +12,7 @@ export const {
 } = createStitches({
   theme: {
     colors: {
-      meganta: "#ff00ff",
+      red: "#f9004d",
       paleYellow: "#eae9ee",
     },
   },
@@ -24,5 +24,8 @@ export const globalStyles = globalCss({
     padding: 0,
     boxSizing: "border-box",
     fontFamily: "Poppins",
+  },
+  body: {
+    padding: "24px 44px",
   },
 });
