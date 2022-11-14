@@ -4,53 +4,6 @@ function App() {
   return (
     <div>
       <Nav />
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
-      <p>z</p>
     </div>
   );
 }
