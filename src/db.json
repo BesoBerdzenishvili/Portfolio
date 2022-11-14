@@ -1,0 +1,50 @@
+{
+  "info": {
+    "projects": [
+      {
+        "link": "https://hashtag-generator.netlify.app/",
+        "img": "https://images2.imgbox.com/09/15/63EBZZV1_o.png",
+        "title": "Password Generator",
+        "github": "https://github.com/BesoBerdzenishvili/password_generator"
+      },
+      {
+        "link": "https://hashtag-generator.netlify.app/",
+        "img": "https://images2.imgbox.com/50/5e/f1hGJNuv_o.png",
+        "title": "Hashtag Generator",
+        "github": "https://github.com/BesoBerdzenishvili/Portfolio"
+      },
+      {
+        "link": "https://hashtag-generator.netlify.app/",
+        "img": "https://images2.imgbox.com/50/5e/f1hGJNuv_o.png",
+        "title": "Hashtag Generator",
+        "github": "https://github.com/BesoBerdzenishvili/Portfolio"
+      },
+      {
+        "link": "https://hashtag-generator.netlify.app/",
+        "img": "https://images2.imgbox.com/09/15/63EBZZV1_o.png",
+        "title": "Password Generator",
+        "github": "https://github.com/BesoBerdzenishvili/password_generator"
+      }
+    ],
+    "skills": [
+      { "category": "HTML5", "skill": "front" },
+      { "category": "CSS3", "skill": "front" },
+      { "category": "JavaScript", "skill": "front" },
+      { "category": "React Js", "skill": "front" },
+      { "category": "Sass", "skill": "front" },
+      { "category": "Bootstrap", "skill": "front" },
+      { "category": "StitchesJS", "skill": "front" },
+      { "category": "Responcive design", "skill": "front" },
+
+      { "category": "Git, GitHub", "skill": "other" },
+      { "category": "Yarn", "skill": "other" },
+      { "category": "npm", "skill": "other" },
+
+      { "category": "MongoDB", "skill": "back" },
+      { "category": "Mongoose", "skill": "back" },
+      { "category": "NodeJS", "skill": "back" },
+      { "category": "ExpressJS", "skill": "back" }
+    ],
+    "languages": ["Georgian (native)", "English (B2)", "Russian (B1)"]
+  }
+}
