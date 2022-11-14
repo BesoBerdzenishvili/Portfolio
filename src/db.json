@@ -27,24 +27,28 @@
       }
     ],
     "skills": [
-      { "category": "HTML5", "skill": "front" },
-      { "category": "CSS3", "skill": "front" },
-      { "category": "JavaScript", "skill": "front" },
-      { "category": "React Js", "skill": "front" },
-      { "category": "Sass", "skill": "front" },
-      { "category": "Bootstrap", "skill": "front" },
-      { "category": "StitchesJS", "skill": "front" },
-      { "category": "Responcive design", "skill": "front" },
-
-      { "category": "Git, GitHub", "skill": "other" },
-      { "category": "Yarn", "skill": "other" },
-      { "category": "npm", "skill": "other" },
-
-      { "category": "MongoDB", "skill": "back" },
-      { "category": "Mongoose", "skill": "back" },
-      { "category": "NodeJS", "skill": "back" },
-      { "category": "ExpressJS", "skill": "back" }
-    ],
-    "languages": ["Georgian (native)", "English (B2)", "Russian (B1)"]
+      {
+        "category": "Front-end",
+        "skill": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "React Js",
+          "Sass",
+          "Bootstrap",
+          "StitchesJS",
+          "Responcive design"
+        ]
+      },
+      { "category": "Back-end", "skill": ["Git, GitHub", "Yarn", "npm"] },
+      {
+        "category": "Other-tech",
+        "skill": ["NodeJS", "ExpressJS", "MongoDB", "Mongoose"]
+      },
+      {
+        "category": "Languages",
+        "skill": ["Georgian (native)", "English (B2)", "Russian (B1)"]
+      }
+    ]
   }
 }
