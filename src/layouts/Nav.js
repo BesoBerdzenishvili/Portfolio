@@ -40,7 +40,11 @@ export default function Nav() {
           <a href="https://beso-portfolio.netlify.app/">Contact</a>
         </li>
       </ul>
-      <a href="https://github.com/BesoBerdzenishvili" target="_blank">
+      <a
+        href="https://github.com/BesoBerdzenishvili"
+        target="_blank"
+        rel="noreferrer"
+      >
         <img src={github_logo} alt="Cat siluette in a circle" />
       </a>
     </Wrapper>
