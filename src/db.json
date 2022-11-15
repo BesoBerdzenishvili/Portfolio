@@ -40,10 +40,13 @@
           "Responcive design"
         ]
       },
-      { "category": "Back-end", "skill": ["Git, GitHub", "Yarn", "npm"] },
+      {
+        "category": "Back-end",
+        "skill": ["NodeJS", "ExpressJS", "MongoDB", "Mongoose"]
+      },
       {
         "category": "Other-tech",
-        "skill": ["NodeJS", "ExpressJS", "MongoDB", "Mongoose"]
+        "skill": ["Git, GitHub", "Yarn", "npm"]
       },
       {
         "category": "Languages",
