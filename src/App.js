@@ -1,10 +1,10 @@
-import Nav from "./layouts/Nav";
+import Header from "./layouts/Header";
 import Skills from "./components/Skills";
 
 function App() {
   return (
     <div>
-      <Nav />
+      <Header />
       <Skills />
     </div>
   );
