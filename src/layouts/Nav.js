@@ -11,6 +11,7 @@ const Wrapper = styled("div", {
   backgroundColor: "$paleYellow",
   top: 0,
   left: 0,
+  zIndex: 999,
   "& img": { cursor: "pointer" },
   "& ul": {
     display: "flex",
