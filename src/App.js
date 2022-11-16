@@ -1,7 +1,7 @@
 import Header from "./layouts/Header";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
-import ScrollButton from "./components/ScrollButton";
+import ScrollToTopButton from "./components/ScrollToTopButton";
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <Header />
       <Skills />
       <Projects />
-      <ScrollButton />
+      <ScrollToTopButton />
     </div>
   );
 }
