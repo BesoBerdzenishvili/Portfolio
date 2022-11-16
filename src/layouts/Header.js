@@ -1,6 +1,5 @@
 import React from "react";
 import { styled } from "@stitches/react";
-import Nav from "./Nav";
 
 const Wrapper = styled("div", {
   backgroundColor: "$paleYellow",
@@ -17,7 +16,6 @@ const Wrapper = styled("div", {
 export default function Header() {
   return (
     <Wrapper>
-      <Nav />
       <h1>BESO'S PORTFOLIO</h1>
     </Wrapper>
   );

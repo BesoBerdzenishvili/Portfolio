@@ -9,9 +9,11 @@ const Wrapper = styled("div", {
   justifyContent: "space-between",
   position: "sticky",
   backgroundColor: "$paleYellow",
+  padding: "0px 44px",
   top: 0,
   left: 0,
   zIndex: 999,
+  "& img:first-child": { width: 50 },
   "& img": { cursor: "pointer" },
   "& ul": {
     display: "flex",
