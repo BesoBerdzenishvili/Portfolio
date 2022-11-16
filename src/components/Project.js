@@ -17,6 +17,7 @@ const Wrapper = styled("div", {
   "&:hover div:first-child": {
     // show overlay
     opacity: 1,
+    display: "initial",
   },
   "& a:visited, a:link": {
     textDecoration: "none",
@@ -29,6 +30,7 @@ const Img = styled("img", {
 });
 
 const Overlay = styled("div", {
+  display: "none",
   position: "absolute",
   top: 0,
   bottom: 0,
@@ -54,6 +56,7 @@ const Info = styled("div", {
       padding: "4px 11px",
       borderRadius: 4,
       backgroundColor: "#000000",
+      border: "2px solid red",
     },
     "& span:hover": {
       backgroundColor: "red",
