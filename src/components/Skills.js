@@ -21,7 +21,7 @@ export default function Skills() {
   const data = info.info;
   return (
     <Wrapper>
-      <h2>Skills:</h2>
+      <h2 id="skills">Skills:</h2>
       <MapWrapper>
         {data.skills.map((i) => (
           <ul key={i.category}>

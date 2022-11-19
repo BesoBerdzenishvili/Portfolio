@@ -26,4 +26,5 @@ export const globalStyles = globalCss({
     boxSizing: "border-box",
     fontFamily: "Poppins",
   },
+  html: { scrollBehavior: "smooth" },
 });

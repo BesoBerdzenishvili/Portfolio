@@ -15,7 +15,7 @@ const Wrapper = styled("div", {
 
 export default function Header() {
   return (
-    <Wrapper>
+    <Wrapper id="home">
       <h1>BESO'S PORTFOLIO</h1>
     </Wrapper>
   );
