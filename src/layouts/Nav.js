@@ -31,16 +31,16 @@ export default function Nav() {
       <img src={B_logo} alt="Uppercase letter B in circle" />
       <ul>
         <li>
-          <a href="https://beso-portfolio.netlify.app/">Home</a>
+          <a href="#home">Home</a>
         </li>
         <li>
-          <a href="https://beso-portfolio.netlify.app/">Projects</a>
+          <a href="#skills">Skills</a>
         </li>
         <li>
-          <a href="https://beso-portfolio.netlify.app/">Skills</a>
+          <a href="#projects">Projects</a>
         </li>
         <li>
-          <a href="https://beso-portfolio.netlify.app/">Contact</a>
+          <a href="#contact">Contact</a>
         </li>
       </ul>
       <a

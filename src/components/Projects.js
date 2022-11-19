@@ -20,7 +20,7 @@ export default function Projects() {
   const data = info.info;
   return (
     <Wrapper>
-      <h2>Projects:</h2>
+      <h2 id="projects">Projects:</h2>
       <ProjectsList>
         {data.projects.map((i, index) => (
           <Project
