@@ -4,26 +4,20 @@
       {
         "link": "https://hashtag-generator.netlify.app/",
         "img": "https://images2.imgbox.com/09/15/63EBZZV1_o.png",
-        "title": "Password Generator",
+        "title": "Hashtag Generator",
         "github": "https://github.com/BesoBerdzenishvili/password_generator"
       },
       {
-        "link": "https://hashtag-generator.netlify.app/",
-        "img": "https://images2.imgbox.com/50/5e/f1hGJNuv_o.png",
-        "title": "Hashtag Generator",
-        "github": "https://github.com/BesoBerdzenishvili/Portfolio"
+        "link": "https://responsive-virtual-keyboard.netlify.app",
+        "img": "https://images2.imgbox.com/24/e8/sw0ZPyfY_o.png",
+        "title": "responsive virtual keyboard",
+        "github": "https://github.com/BesoBerdzenishvili/virtual-keyboard"
       },
       {
-        "link": "https://hashtag-generator.netlify.app/",
-        "img": "https://images2.imgbox.com/09/15/63EBZZV1_o.png",
-        "title": "Hashtag Generator",
-        "github": "https://github.com/BesoBerdzenishvili/Portfolio"
-      },
-      {
-        "link": "https://hashtag-generator.netlify.app/",
-        "img": "https://images2.imgbox.com/50/5e/f1hGJNuv_o.png",
-        "title": "Password Generator",
-        "github": "https://github.com/BesoBerdzenishvili/password_generator"
+        "link": "https://space-tourism-beso.netlify.app",
+        "img": "https://images2.imgbox.com/2f/05/CBN4Ri76_o.png",
+        "title": "Space Tourism",
+        "github": "https://github.com/BesoBerdzenishvili/Space-Tourism"
       }
     ],
     "skills": [
