@@ -2,6 +2,12 @@
   "info": {
     "projects": [
       {
+        "link": "https://beso-password-generator.netlify.app/",
+        "img": "https://images2.imgbox.com/10/66/vsmLftoV_o.png",
+        "title": "Password Generator",
+        "github": "https://github.com/BesoBerdzenishvili/password-generator-3"
+      },
+      {
         "link": "https://hashtag-generator.netlify.app/",
         "img": "https://images2.imgbox.com/09/15/63EBZZV1_o.png",
         "title": "Hashtag Generator",
