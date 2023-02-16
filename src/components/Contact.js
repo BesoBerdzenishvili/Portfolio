@@ -56,7 +56,7 @@ const Form = styled("div", {
 export default function Contact() {
   return (
     <Wrapper>
-      <h2 id="contact">Hire Me</h2>
+      <h2 id="contact">Contact Me</h2>
       <p>
         I am available for freelance or professional work. Connect with me via
         <b> email</b>:
