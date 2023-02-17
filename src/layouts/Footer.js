@@ -16,7 +16,7 @@ export default function Footer() {
   return (
     <Wrapper>
       <img src={B_logo} alt="Uppercase letter B in circle" />
-      <p>Copyright © 2022 Beso's Portfolio. All Rights Reserved.</p>
+      <p>Copyright © 2023 Beso's Portfolio. All Rights Reserved.</p>
     </Wrapper>
   );
 }
