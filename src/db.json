@@ -24,6 +24,12 @@
         "img": "https://images2.imgbox.com/2f/05/CBN4Ri76_o.png",
         "title": "Space Tourism",
         "github": "https://github.com/BesoBerdzenishvili/Space-Tourism"
+      },
+      {
+        "link": "https://voice-transcript-beso.netlify.app",
+        "img": "https://images2.imgbox.com/0b/c4/towDHKqx_o.png",
+        "title": "Voice Transcript",
+        "github": "https://github.com/BesoBerdzenishvili/Voice-Transcript"
       }
     ],
     "skills": [
