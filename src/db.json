@@ -1,6 +1,18 @@
 {
   "info": {
     "projects": [
+    {
+        "link": "https://rest-countries-tjt41.vercel.app/",
+        "img": "https://images2.imgbox.com/14/4c/wx7p2IYp_o.png",
+        "title": "Countries",
+        "github": "https://github.com/BesoBerdzenishvili/rest-countries-api-with-color-theme-switcher-master"
+      },
+     {
+        "link": "https://space-tourism-beso.netlify.app",
+        "img": "https://images2.imgbox.com/2f/05/CBN4Ri76_o.png",
+        "title": "Space Tourism",
+        "github": "https://github.com/BesoBerdzenishvili/Space-Tourism"
+      },
       {
         "link": "https://beso-password-generator.netlify.app/",
         "img": "https://images2.imgbox.com/10/66/vsmLftoV_o.png",
@@ -18,12 +30,6 @@
         "img": "https://images2.imgbox.com/24/e8/sw0ZPyfY_o.png",
         "title": "responsive virtual keyboard",
         "github": "https://github.com/BesoBerdzenishvili/virtual-keyboard"
-      },
-      {
-        "link": "https://space-tourism-beso.netlify.app",
-        "img": "https://images2.imgbox.com/2f/05/CBN4Ri76_o.png",
-        "title": "Space Tourism",
-        "github": "https://github.com/BesoBerdzenishvili/Space-Tourism"
       },
       {
         "link": "https://voice-transcript-beso.netlify.app",
