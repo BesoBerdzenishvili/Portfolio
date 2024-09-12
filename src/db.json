@@ -46,10 +46,11 @@
           "CSS3",
           "JavaScript",
           "React TS",
-          "Sass",
-          "Bootstrap",
+          "Next.Js",
+          "Redux",
+          "Material UI",
           "StitchesJS",
-          "Responcive design"
+          "Responsive design"
         ]
       },
       {
@@ -58,11 +59,11 @@
       },
       {
         "category": "Other-tech",
-        "skill": ["Git, GitHub", "Yarn", "npm"]
+        "skill": ["Git, GitHub", "GitLab", "Yarn", "npm", "Jenkins", "Jest"]
       },
       {
         "category": "Languages",
-        "skill": ["Georgian (native)", "English (B2)", "Russian (B1)"]
+        "skill": ["Georgian (native)", "English (C1)", "Russian (B2)"]
       }
     ]
   }
