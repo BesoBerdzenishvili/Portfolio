@@ -45,7 +45,7 @@
           "HTML5",
           "CSS3",
           "JavaScript",
-          "React TS",
+          "ReactJS",
           "Next.Js",
           "Redux",
           "Material UI",
@@ -55,11 +55,11 @@
       },
       {
         "category": "Back-end",
-        "skill": ["NodeJS", "ExpressJS", "MongoDB", "Mongoose"]
+        "skill": ["NodeJS", "NestJs", "ExpressJS", "MongoDB", "Mongoose", "MySQL", "Sequelize"]
       },
       {
         "category": "Other-tech",
-        "skill": ["Git, GitHub", "GitLab", "Yarn", "npm", "Jenkins", "Jest"]
+        "skill": ["Git, GitHub", "GitLab", "Typescript", "CI/CD", "npm", "Jest", "Cypress", "Jira"]
       },
       {
         "category": "Languages",
